@@ -8,7 +8,7 @@ OpenFOAM官方: [Official OpenFOAM Repository](https://github.com/OpenFOAM?tab=r
 
 自己来求解: [To solve partial differential equations in a very comfortable manner](https://fenicsproject.org/)
 
-[知乎专栏・计算流体力学——从原理到代码・徐政豪](https://zhuanlan.zhihu.com/c_189459799)
+[知乎专栏・计算流体力学——从原理到代码](https://zhuanlan.zhihu.com/c_189459799)
 
 1. [计算流体力学——从原理到代码（一）：对流方程的格式与实现](https://zhuanlan.zhihu.com/p/36771658)
 2. [计算流体力学——从原理到代码（二）：从线性对流方程到黎曼问题](https://zhuanlan.zhihu.com/p/36778034)
